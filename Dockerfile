@@ -18,6 +18,7 @@ RUN pip install opencv-python
 RUN pip install scipy
 RUN pip install numpy
 RUN pip install matplotlib
+RUN pip install open3d
 #RUN pip install pyyaml
 #RUN pip install torchtyping
 #RUN pip install setuptools

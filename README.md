@@ -1,5 +1,6 @@
-# template_cv
-template rep for computer vision research using Python and pytorch
+# Mask RGB Image from Depth Map
 
 ## using
-hoge
+'''
+python3 src/main.py dataset/0002.mp4 dataset/0002 50
+'''
